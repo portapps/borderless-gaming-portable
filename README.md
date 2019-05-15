@@ -12,13 +12,15 @@
 
 ## Notice of Non-Affiliation and Disclaimer
 
-Portapps is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Borderless Gaming, or any of its subsidiaries or its affiliates. The official Borderless Gaming website can be found at https://github.com/Codeusa/Borderless-Gaming.
+Portapps is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Borderless Gaming™, or any of its subsidiaries or its affiliates.
 
-The name Borderless Gaming® as well as related names, marks, emblems and images are registered trademarks of their respective owners.
+The official Borderless Gaming™ website can be found at https://github.com/Codeusa/Borderless-Gaming.
+
+The name Borderless Gaming™ as well as related names, marks, emblems and images are registered trademarks of their respective owners.
 
 ## About
 
-Borderless Gaming portable app made with 🚀 [Portapps](https://portapps.io).<br />
+Borderless Gaming™ portable app made with 🚀 [Portapps](https://portapps.io).<br />
 Documentation and downloads can be found on https://portapps.io/app/borderless-gaming-portable/
 
 ## How can I help ?
