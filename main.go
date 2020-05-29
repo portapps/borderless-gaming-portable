@@ -29,5 +29,6 @@ func main() {
 
 	utl.OverrideEnv("APPDATA", utl.PathJoin(app.DataPath, "AppData"))
 
+	defer app.Close()
 	app.Launch(os.Args[1:])
 }
