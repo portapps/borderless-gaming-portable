@@ -5,9 +5,9 @@ package main
 import (
 	"os"
 
-	"github.com/portapps/portapps/v2"
-	"github.com/portapps/portapps/v2/pkg/log"
-	"github.com/portapps/portapps/v2/pkg/utl"
+	"github.com/portapps/portapps/v3"
+	"github.com/portapps/portapps/v3/pkg/log"
+	"github.com/portapps/portapps/v3/pkg/utl"
 )
 
 var (
@@ -27,7 +27,7 @@ func main() {
 	utl.CreateFolder(utl.PathJoin(app.DataPath, "AppData"))
 	app.Process = utl.PathJoin(app.AppPath, "BorderlessGaming.exe")
 
-	utl.OverrideEnv("APPDATA", utl.PathJoin(app.DataPath, "AppData"))
+	os.Setenv("APPDATA", utl.PathJoin(app.DataPath, "AppData"))
 
 	defer app.Close()
 	app.Launch(os.Args[1:])
