@@ -1,5 +1,9 @@
 # Changelog
 
+## 9.5.6-3 (2021/01/03)
+
+* Portapps 3.1.0
+
 ## 9.5.6-2 (2020/11/13)
 
 * Borderless Gaming 9.5.6
